@@ -1,1 +1,5 @@
+streamlit
+pymupdf
+matplotlib
+reportlab
 py -m streamlit run app.py
